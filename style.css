@@ -1,0 +1,18 @@
+#con{
+    background-color: white;
+    margin-top:2000px;
+    width:1070px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 35px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+body{
+    background-image:url(../test/images.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#h3{
+    color:#5252ab;
+
+}
